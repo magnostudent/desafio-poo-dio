@@ -1,3 +1,4 @@
+# Projeto Acadêmico 
 # Aprendizado do Desafio: Programação Orientada a Objetos na Prática
 
 Como aluno da plataforma de cursos online DIGITAL INNOVATION ONE, tive a oportunidade de participar do desafio: **APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS**. Este desafio, co-criado com a plataforma, foi uma experiência incrível e gratuita para a comunidade de desenvolvedores Java.
